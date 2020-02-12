@@ -1,0 +1,11 @@
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\lab5_2\bin\Debug\netcoreapp3.1\lab5_2.exe
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\lab5_2\bin\Debug\netcoreapp3.1\lab5_2.deps.json
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\lab5_2\bin\Debug\netcoreapp3.1\lab5_2.runtimeconfig.json
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\lab5_2\bin\Debug\netcoreapp3.1\lab5_2.runtimeconfig.dev.json
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\lab5_2\bin\Debug\netcoreapp3.1\lab5_2.dll
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\lab5_2\bin\Debug\netcoreapp3.1\lab5_2.pdb
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\lab5_2\obj\Debug\netcoreapp3.1\lab5_2.csprojAssemblyReference.cache
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\lab5_2\obj\Debug\netcoreapp3.1\lab5_2.AssemblyInfoInputs.cache
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\lab5_2\obj\Debug\netcoreapp3.1\lab5_2.AssemblyInfo.cs
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\lab5_2\obj\Debug\netcoreapp3.1\lab5_2.dll
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\lab5_2\obj\Debug\netcoreapp3.1\lab5_2.pdb
